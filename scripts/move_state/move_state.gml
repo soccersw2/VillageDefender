@@ -2,6 +2,10 @@
 // Get Direction
 dir = point_direction(0, 0, xaxis, yaxis);
 
+// Get Speed
+if (shiftKey) spd = 2;
+
+
 // Get Length
 if (xaxis == 0) && (yaxis == 0) {
 	len = 0;

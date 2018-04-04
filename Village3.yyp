@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3d0da283-9b1d-4bf1-86e2-1590251efdb1",
+            "Value": {
+                "id": "95c7d55c-63d4-4bdd-b74e-eef454c4689f",
+                "resourcePath": "sprites\\spr_bow\\spr_bow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "402624ed-d4d5-4e6a-8c1f-edac39205f80",
             "Value": {
                 "id": "762faf1d-0c88-409d-aeb9-92d9ef04925c",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "66eec670-8de6-4172-8dfd-42825cea107d",
+            "Value": {
+                "id": "988606a5-ab20-46fe-b371-210d0d462284",
+                "resourcePath": "objects\\obj_arrow\\obj_arrow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "699715eb-88d8-41d6-905b-cae3ec8df5d2",
             "Value": {
                 "id": "1de2ca8c-9b26-4c69-afbb-f47145b32980",
@@ -263,6 +279,14 @@
             }
         },
         {
+            "Key": "8cee50e9-2c76-4012-a74e-9e48dcda53d2",
+            "Value": {
+                "id": "dd4bb543-f9bf-420b-bf8a-f6e61698ee95",
+                "resourcePath": "rooms\\rm_grass_1\\rm_grass_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8e6428f0-c596-4393-a582-fabc1b174cae",
             "Value": {
                 "id": "451942d4-ea37-4414-be9d-e17ec3f7299f",
@@ -316,6 +340,14 @@
                 "id": "f3a7420d-0bd1-4128-8429-66b90b6b7fe7",
                 "resourcePath": "tilesets\\ts_path\\ts_path.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "a227139f-0b27-44d5-8438-4f28bc84f2ad",
+            "Value": {
+                "id": "99b57e7b-c0b3-4e0c-a935-3419d1983925",
+                "resourcePath": "sprites\\spr_arrow\\spr_arrow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -431,6 +463,14 @@
             }
         },
         {
+            "Key": "de50e983-36d8-4c82-90fd-54ee770fa016",
+            "Value": {
+                "id": "30be361a-15e8-4134-98d5-66c4c2ee0db1",
+                "resourcePath": "objects\\obj_bow\\obj_bow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e19bf660-850f-4241-8093-c694d6149c2d",
             "Value": {
                 "id": "7f4268e7-f9b8-4b21-b2b4-4ac237fffc19",
@@ -500,14 +540,6 @@
                 "id": "f8052507-8b02-4169-a67f-c1dfb2c52445",
                 "resourcePath": "views\\f448e2a2-1f0c-4466-81aa-2678c6769c13.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f66d4122-210b-421f-938e-8678d23a5362",
-            "Value": {
-                "id": "e02814de-6f76-4f46-8630-7bdccb654fa6",
-                "resourcePath": "rooms\\rm_grass_1\\rm_grass_1.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

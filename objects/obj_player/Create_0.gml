@@ -14,6 +14,9 @@ steps = 1000;
 gui_width = display_get_gui_width();
 gui_height = display_get_gui_height();
 
+// Materials & Weapons
+current_weapon = instance_create_layer(x, y, "Weapons", obj_bow);
+
 // Sprites
 face = 0;
 

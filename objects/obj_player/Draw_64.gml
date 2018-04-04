@@ -4,7 +4,7 @@ if (room != rm_battle) && (room != rm_pause) {
 	// Draw Basic Variables
 	draw_set_font(fnt_small);
 	draw_text(16, 8, "Health: " + string(p_health) + "/" + string(p_maxhealth));
-	draw_text(16, 32, "Level: " + string(p_level));
+	draw_text(16, 32, "Level: " + string(p_wave));
 	
 	// Draw Healthbar
 	draw_rectangle(164, 12, 164+(p_maxhealth*4), 28, false);
@@ -24,7 +24,7 @@ if (room != rm_battle) && (room != rm_pause) {
 	// Draw Stats
 	draw_set_font(fnt_small);
 	draw_set_color(c_black);
-	draw_text(gui_width*0.45, gui_height*0.55, "Level: " + string(p_level));
+	draw_text(gui_width*0.45, gui_height*0.55, "Level: " + string(p_wave));
 	draw_text(gui_width*0.45, gui_height*0.70, "Health: " + string(p_health) + "/" + string(p_maxhealth));
 	draw_text(gui_width*0.45, gui_height*0.85, "Attack: " + string(p_attack));
 	draw_text(gui_width*0.45, gui_height, "Speed: " + string(p_speed));

@@ -1,6 +1,6 @@
 ///player_stats()
-globalvar p_level;
-p_level = 1;
+globalvar p_wave;
+p_wave = 1;
 globalvar p_health;
 p_health = 20;
 globalvar p_maxhealth;
