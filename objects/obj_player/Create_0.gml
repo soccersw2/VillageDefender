@@ -10,6 +10,10 @@ player_stats();
 
 steps = 1000;
 
+// GUI
+gui_width = display_get_gui_width();
+gui_height = display_get_gui_height();
+
 // Sprites
 face = 0;
 

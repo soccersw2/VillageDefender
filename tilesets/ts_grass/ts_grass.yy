@@ -4,7 +4,56 @@
     "mvc": "1.11",
     "name": "ts_grass",
     "auto_tile_sets": [
-        
+        {
+            "id": "b53d14a6-e500-486e-9f27-0de9b6ad5135",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "autotile_1",
+            "tiles": [
+                1,
+                26,
+                24,
+                25,
+                10,
+                18,
+                0,
+                3,
+                8,
+                0,
+                16,
+                19,
+                25,
+                11,
+                27,
+                17
+            ]
+        },
+        {
+            "id": "85687940-d28b-4125-ab5c-b062221f2d00",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "autotile_2",
+            "tiles": [
+                13,
+                23,
+                15,
+                5,
+                31,
+                12,
+                0,
+                4,
+                23,
+                0,
+                14,
+                6,
+                21,
+                20,
+                22,
+                17
+            ]
+        }
     ],
     "macroPageTiles": {
         "SerialiseData": null,
